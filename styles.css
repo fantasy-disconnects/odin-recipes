@@ -10,7 +10,7 @@ body {
 }
 
 body,
-ul {
+ul, .introduction {
     margin: 0 auto;
     padding: 0;
 
@@ -27,6 +27,14 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 900;
     font-size: 300%;
+}
+
+.introduction {
+    margin-bottom: 50px;
+    width: 90%;
+
+    font-size: 30px;
+    
 }
 
 h2 {
